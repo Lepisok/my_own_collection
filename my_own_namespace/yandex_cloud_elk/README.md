@@ -1,3 +1,7 @@
-# Ansible Collection - my_own_namespace.yandex_cloud_elk
+# Ansible Collection - apodkopaev.yandex_cloud_elk
 
-Documentation for the collection.
+This a test collection
+
+The collection contains a single module my_own_module that puts content to a text file at path.
+
+The single_task_role contains a trivial test of this module.
